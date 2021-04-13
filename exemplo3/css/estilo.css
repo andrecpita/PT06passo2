@@ -1,0 +1,4 @@
+.centro { /* Aplica as alterações a tudo o que tiver a classe "centro" */
+	text-align: center; /* Alinha o texto ao centro */
+	color: red; /* Escreve o texto com a cor vermelha */
+}

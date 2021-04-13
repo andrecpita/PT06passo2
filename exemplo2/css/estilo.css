@@ -1,0 +1,4 @@
+#paragrafo1 { /* Aplica as alterações a tudo o que tiver o id "paragrafo1" */
+   text-align: center; /* Alinha o texto ao centro */
+   color: red; /* Escreve o texto com a cor vermelha */
+}

@@ -1,0 +1,4 @@
+p.centro { /* Aplica as alterações a todos os parágrafos que tiverem a classe "centro" */
+	text-align: center; /* Alinha o texto ao centro */
+	color: red; /* Escreve o texto com a cor vermelha */
+}
